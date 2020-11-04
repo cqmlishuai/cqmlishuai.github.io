@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godweiyang.com/friends/index.html</loc>
+    <loc>https://godweiyang.com/contact/index.html</loc>
     
     <lastmod>2020-11-03T09:21:45.992Z</lastmod>
     
@@ -16,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/contact/index.html</loc>
+    <loc>https://godweiyang.com/friends/index.html</loc>
     
     <lastmod>2020-11-03T09:21:45.992Z</lastmod>
     
@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://godweiyang.com/categories/index.html</loc>
+    
+    <lastmod>2020-11-03T09:21:45.981Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://godweiyang.com/archives/index.html</loc>
     
     <lastmod>2020-11-03T09:21:45.981Z</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://godweiyang.com/about/index.html</loc>
-    
-    <lastmod>2020-11-03T09:21:45.981Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godweiyang.com/categories/index.html</loc>
     
     <lastmod>2020-11-03T09:21:45.981Z</lastmod>
     
